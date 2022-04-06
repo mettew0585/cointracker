@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cointracker/static/css/main.0b000751.css",
+    "main.js": "/cointracker/static/js/main.5190e3e7.js",
+    "static/media/dollar.jpg": "/cointracker/static/media/dollar.e164705a1e39d85d0111.jpg",
+    "index.html": "/cointracker/index.html",
+    "main.0b000751.css.map": "/cointracker/static/css/main.0b000751.css.map",
+    "main.5190e3e7.js.map": "/cointracker/static/js/main.5190e3e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b000751.css",
+    "static/js/main.5190e3e7.js"
+  ]
+}
